@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "376610097755",
+    "firebase_url": "https://tadween-d27a6-default-rtdb.firebaseio.com",
+    "project_id": "tadween-d27a6",
+    "storage_bucket": "tadween-d27a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376610097755:android:f3f8158ae8989a6ecbcd7e",
+        "android_client_info": {
+          "package_name": "com.tadween.tadween"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZC__N0BqR3uxdwl_E5NcktwFv9irhc6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
